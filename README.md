@@ -13,7 +13,7 @@ A website built with React.js and GraphQL made to let users search books and all
 ![Google Book Search](./screenshot/google-book-search.gif)
 
 ## Live Site <a name="live"></a>
-[Live Website](https://ianjacksondesign.com/react-portfolio)
+[Live Website](https://google-book-search-bootcamp.herokuapp.com/)
 
 ## The Challenge <a name="challenge"></a>
 AS AN avid reader
